@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;        
+}
+
+#buttonStart {    
+    font-size: 20px;
+	text-align: center;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: none;    
+    margin-bottom: 20px;    
+    
+}
+
+#boxes {
+    max-width: 1000px;
+    margin: 0 auto;
+	display: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    
+}
+
+.field {
+	border: 2px solid silver;
+    width: 200px;
+    height: 200px;
+}
+
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+.violet{
+    background-color: mediumvioletred;
+}
+
+.gold{
+    background-color: gold;
+}
+
+.maroon{
+    background-color: maroon;
+}
+
+.orange{
+    background-color: orangered;
+}
+
+.lime{
+    background-color: lime;
+}
+
+.cyan{
+    background-color: cyan;
+}
+
+.onCard{
+    background-color: silver;
+}
+
+.offCard{
+    background-color: black;
+}
