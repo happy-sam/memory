@@ -22,19 +22,17 @@ h1{
 }
 
 #boxes {
-    max-width: 1000px;
+    max-width: 750px;
     margin: 0 auto;
-	display: none;
+	display: none;    
     flex-direction: row;
-    flex-wrap: wrap;
-    
-    
+    flex-wrap: wrap;    
 }
 
 .field {
 	border: 2px solid silver;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 
 
@@ -66,8 +64,8 @@ h1{
     background-color: maroon;
 }
 
-.orange{
-    background-color: orangered;
+.pink{
+    background-color: pink;
 }
 
 .lime{
