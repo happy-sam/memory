@@ -1,1 +1,1 @@
-Przygotowanie własnej wersi gry memory na bazie tutoriala websamuraja
+Przygotowanie własnej wersji gry memory na bazie tutoriala websamuraja
